@@ -28,10 +28,3 @@ var pigLatinTranslator = function(phrase) {
 }
 
 console.log(pigLatinTranslator('hippity hoppity'));
-// to lowercase
-// split string into words
-// split words into indexes
-// find first vowel
-// remove first indexes until first vowel, store to string '- + indexes + ay'
-// restore to string, capitalize
-// concat strings
